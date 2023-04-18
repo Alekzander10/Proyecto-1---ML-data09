@@ -278,6 +278,13 @@ La función get_recommendation() toma un título como entrada y devuelve una lis
 
 - Se devuelve una lista de los 5 títulos más similares en base a los índices seleccionados. Esto se realiza mediante la selección de los títulos correspondientes a los índices seleccionados en el DataFrame user_item y la conversión de los títulos en una lista utilizando el método tolist(). Si el título dado como parámetro no se encuentra en la base de datos, se imprime un mensaje de aviso.
  
+ <br/> 
+
+## Deploy
+
+- se genera un cambio en los datos por lo tanto volvemos a aplicar el render  
+- obtenemos las nuevas url para las consultas 
+ 
  
  https://proyecto-1-soy-henry.onrender.com
 
