@@ -277,3 +277,14 @@ La función get_recommendation() toma un título como entrada y devuelve una lis
 - Se seleccionan los primeros 5 índices de los títulos más similares utilizando la sintaxis de segmentación de matrices. Esto se hace mediante la selección de los primeros 5 elementos de la lista de índices ordenados.
 
 - Se devuelve una lista de los 5 títulos más similares en base a los índices seleccionados. Esto se realiza mediante la selección de los títulos correspondientes a los índices seleccionados en el DataFrame user_item y la conversión de los títulos en una lista utilizando el método tolist(). Si el título dado como parámetro no se encuentra en la base de datos, se imprime un mensaje de aviso.
+ 
+ 
+ https://proyecto-1-soy-henry.onrender.com
+
+https://proyecto-1-soy-henry.onrender.com/docs
+ 
+ 
+ # <h1 > **V PARTE :** Video 
+ 
+ https://youtu.be/XaOKlqAgY98
+ 
